@@ -1,4 +1,4 @@
-# Oasis Infobyte - Python Programming Internship
+# Python Programming 
 
 *Name:* Madhusmita Mekap  
 *Domain:* Python Programming  
